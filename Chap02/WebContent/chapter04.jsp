@@ -16,7 +16,5 @@
 	<input type="text" name="phone" size=20><br>
 	<input type="submit" value="확인">
 </form>
-<% 
-%>
 </body>
 </html>
